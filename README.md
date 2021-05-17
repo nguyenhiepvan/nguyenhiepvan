@@ -13,7 +13,7 @@
 
 - 💻 &nbsp; Php | Laravel | Python | Java | C++  
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Tailwinds | Livewriter
-- 🛢 &nbsp; MySQL | Apache | Nginx
+- 🛢 &nbsp; MySQL | Apache | Nginx | Docker
 - 🔧 &nbsp; Deployer | Git
 - 🖥 &nbsp; Linux | Window
 
