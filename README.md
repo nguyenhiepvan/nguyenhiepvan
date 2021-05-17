@@ -5,11 +5,10 @@
 
 - 🔭 &nbsp; I’m currently working Web Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- 🎓 &nbsp; Studying Sofware Engineering.
+- 💼 &nbsp; Full stack Web developer.
+- ✍️ &nbsp; Reading book, watching Films and trying out latest technology trends as hobbies/side hustles.
+- ☕ &nbsp; I think, therefore I am. 
 
 <h3>🛠 Tech Stack</h3>
 
