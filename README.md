@@ -23,8 +23,7 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhiepvan&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/nguyenhiepvan)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhiepvan&layout=compact&text_color=daf7dc&bg_color=151515)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
