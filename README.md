@@ -11,11 +11,11 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Php | Laravel | Dart | Java | C++  
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Deployer | | Eclipse | Git
-- 🖥 &nbsp; Apache | Nginx | Linx | Photoshop
+- 💻 &nbsp; Php | Laravel | Python | Java | C++  
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Tailwinds | Livewriter
+- 🛢 &nbsp; MySQL | Apache | Nginx
+- 🔧 &nbsp; Deployer | Git
+- 🖥 &nbsp; Linux | Window
 
 <br>
 
