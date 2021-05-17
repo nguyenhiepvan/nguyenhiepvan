@@ -33,4 +33,4 @@
 &nbsp; <a href="mailto:nguyenhiepvan.bka@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-⭐️ From [nguyenhiepvan](https://github.com/nguyenheipvan)
+⭐️ From [nguyenhiepvan](https://github.com/nguyenhiepvan)
