@@ -8,7 +8,6 @@
 - 🎓 &nbsp; Studying Sofware Engineering.
 - 💼 &nbsp; Full stack Web developer.
 - ✍️ &nbsp; Reading book, watching Films and trying out latest technology trends as hobbies/side hustles.
-- ☕ &nbsp; I think, therefore I am. 
 
 <h3>🛠 Tech Stack</h3>
 
