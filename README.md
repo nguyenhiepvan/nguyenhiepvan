@@ -31,6 +31,7 @@
   &nbsp; <a href="https://join.skype.com/invite/RrvpxYOSDPiV" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/skype.png" width="50" /></a>  
 &nbsp; <a href="https://facebook.com/nguyenhiepvan.public" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png" width="50" /></a>  
 &nbsp; <a href="mailto:nguyenhiepvan.bka@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+  &nbsp; <a href="tel:0389289563" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/phone.png"  width="50" /></a>
 </p>
 
 ⭐️ From [nguyenhiepvan](https://github.com/nguyenhiepvan)
