@@ -12,10 +12,10 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Php | Laravel | Python | Java | C++  
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Tailwinds | Livewriter
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Tailwinds | Livewrite
 - 🛢 &nbsp; MySQL | Apache | Nginx | Docker
 - 🔧 &nbsp; Deployer | Git
-- 🖥 &nbsp; Linux | Window
+- 🖥 &nbsp; Linux | Window | MacOs
 
 <br>
 
