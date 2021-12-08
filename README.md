@@ -11,7 +11,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Php | Laravel | Python | Java | C++  
+- 💻 &nbsp; Php | Laravel | Python | Java | C++ | Go
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Tailwinds | Livewrire
 - 🛢 &nbsp; MySQL | Apache | Nginx | Docker
 - 🔧 &nbsp; Deployer | Git
