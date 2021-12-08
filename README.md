@@ -3,9 +3,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently working Web Application Development
+- 🔭 &nbsp; I’m currently working on Web Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Sofware Engineering.
+- 🎓 &nbsp; Sofware Engineering.
 - 💼 &nbsp; Full stack Web developer.
 - ✍️ &nbsp; Reading book, watching Films and trying out latest technology trends as hobbies/side hustles.
 
@@ -26,4 +26,4 @@
 ![Top Langs](https://github.com/nguyenhiepvan/github-stats/blob/master/generated/languages.svg)
 
 </br>
-⭐️ From [nguyenhiepvan](https://github.com/nguyenhiepvan)
+⭐️ From <a target="_blank" href="https://github.com/nguyenhiepvan">nguyenhiepvan</a>
